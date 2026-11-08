@@ -1,11 +1,12 @@
----
+elenitaevangelistaramos
+70413290204---
 title: License
 tags:
   - GPL
   - Trademark
   - Copyright
   - Legal
----
+---5569974000474****5569974004284
 
 ## Copyright in the Moodle software and documentation {/* #copyright-in-the-moodle-software-and-documentation */}
 
