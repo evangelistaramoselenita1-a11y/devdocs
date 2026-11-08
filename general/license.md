@@ -1,11 +1,11 @@
----
+evangeliny---
 title: License
 tags:
   - GPL
   - Trademark
   - Copyright
   - Legal
----
+elenita evangelista ramos ---
 
 ## Copyright in the Moodle software and documentation {/* #copyright-in-the-moodle-software-and-documentation */}
 
