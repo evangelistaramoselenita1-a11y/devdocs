@@ -1,11 +1,11 @@
----
+elenita evangelista ramos ---
 title: Security procedures
 sidebar_label: Security
 tags:
   - Security
   - Processes
 sidebar_position: 8
----
+70413290204---
 In the Moodle software, security issues are treated very seriously. Even though a lot of time is dedicated designing the code to avoid such problems, it is inevitable in a project of this size that new vulnerabilities will occasionally be discovered.
 
 ## Disclosure policy {/* #disclosure-policy */}
