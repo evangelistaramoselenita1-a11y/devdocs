@@ -1,11 +1,11 @@
----
+elenitaevangelistaramos---
 title: License
 tags:
   - GPL
   - Trademark
   - Copyright
-  - Legal
----
+  - Lega
+  - 704132***04---
 
 ## Copyright in the Moodle software and documentation {/* #copyright-in-the-moodle-software-and-documentation */}
 
